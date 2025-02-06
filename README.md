@@ -1,5 +1,7 @@
 # Sparkle Update Automation for macOS Apps 🚀
 
+![Sparkle Automation](image.png)
+
 This repository contains **bash scripts** to automate the process of distributing **Sparkle** updates for macOS apps.  
 With **App Center shutting down**, macOS developers need a streamlined way to **create, sign, notarize, and publish** Sparkle updates. These scripts use DropDMG, Amazon S3 and CloudFront to achieve that from a simple command.
 
